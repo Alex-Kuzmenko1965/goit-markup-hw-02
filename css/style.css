@@ -1,0 +1,46 @@
+.root {
+  --primary-text-color: #212121;
+  --title-text-color: #000;
+  --accent-color: #2196f3;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  color: var(--primary-text-color);
+}
+.list {
+  list-style: none;  
+}
+
+.logo {
+  color: var(--title-text-color);
+}
+
+.logo:hover {
+  color: #2196f3;
+}
+
+.link {
+  color: var(--title-text-color);
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  font-style: medium;
+  font-size: 14pt;
+  color: #2196f3;
+}
+  
+.auth-nav {
+  color: #000;
+}
+
+.section {
+  color: #000;
+}
+
+.feature-list .title {
+  color: #000;
+}
+  
