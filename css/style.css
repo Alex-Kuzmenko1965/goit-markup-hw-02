@@ -173,7 +173,6 @@ body {
 }
 
 .portfolio-title {
-  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;  
@@ -181,9 +180,8 @@ body {
 }
 
 .portfolio-sutitle {
-  font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.88;
   letter-spacing: 0.03em;  
   color: var(--secandary-text-color);
 }
@@ -197,7 +195,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--light-color);
 }
